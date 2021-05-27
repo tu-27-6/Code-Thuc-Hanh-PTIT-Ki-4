@@ -11,6 +11,8 @@ ll solap(ll arr[], ll n) {
 			}
 		}
 	}
+	
+	return "NO";
 
 }
 
